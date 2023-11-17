@@ -40,7 +40,7 @@ Este projeto foi desenvolvido com as seguintes tecnologias:
 
 <h2 id="usage">💡 Utilização</h2>
 
-A aplicação RocketNotes está disponível para utilização [aqui](https://rocket-notas.netlify.app/).
+A aplicação RocketNotes está disponível para utilização [_blank  aqui](https://rocket-notas.netlify.app/).
 
 Você também pode instalá-la em sua máquina localmente. Para isso, clone o projeto, acesse a pasta, instale as dependências e inicie o servidor.
 
